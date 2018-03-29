@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1001871320213-p0n2b2r5b82qp6mmprlmmdep851nj0g7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uberapp-6656a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1001871320213</string>
+    <string name="google_api_key" translatable="false">AIzaSyC6IDVVxF8JIv1e8FSaXbO4CH3ORVdyW2E</string>
+    <string name="google_app_id" translatable="false">1:1001871320213:android:89065bb891915c53</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC6IDVVxF8JIv1e8FSaXbO4CH3ORVdyW2E</string>
+    <string name="google_storage_bucket" translatable="false">uberapp-6656a.appspot.com</string>
+    <string name="project_id" translatable="false">uberapp-6656a</string>
+</resources>
